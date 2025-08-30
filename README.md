@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Md Maruf Ahamed
 
-<!--
-**mdmarufahamed/mdmarufahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Excel | SQL | Python | Power BI | Tableau**  
 
-Here are some ideas to get you started:
+I love turning raw data into meaningful insights that help businesses make smarter decisions.  
+My work combines **data cleaning, visualization, and storytelling** with real-world projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools  
+- **Data Wrangling**: Excel
+- **Databases**: SQL  
+- **Visualization & BI**: Power BI, Tableau  
+- **Programming & Analysis**: Python
+- **Version Control**: Git & GitHub  
+
